@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**ArakiTakaki/ArakiTakaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Job
 
-Here are some ideas to get you started:
+- Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Favorite frameworks
+
+- React 
+    - next
+    - gatsby
+- Vue
+    - nuxt
+- Yew (rust-wasm)
+- Three.js
+- Babylon.js
+
+## Interest
+
+- Game Development
+- Web Development
+- Interactive Art
+- Anime
+
+## Link
+
+- [Twitter - https://twitter.com/Araki_t_t](https://twitter.com/Araki_t_t)
+- [WebSite - https://www.arakitakaki.net/](https://www.arakitakaki.net/)
+
