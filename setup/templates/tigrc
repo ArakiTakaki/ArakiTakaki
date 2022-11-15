@@ -1,0 +1,5 @@
+# vim風にページアップ
+bind main C !@git pbcopy %(commit)
+bind generic <Ctrl-f> scroll-page-down
+bind generic <Ctrl-b> scroll-page-up
+bind generic <Ctrl-t>c !@bash -c "cut -c-7 <<<%(commit) | xargs echo -n | pbcopy"
