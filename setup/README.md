@@ -1,6 +1,19 @@
 
+# インストール
+
 ## Mac
-curl -L https://get.oh-my.fish | bash
+
+`curl -L https://raw.githubusercontent.com/ArakiTakaki/ArakiTakaki/master/setup/mac.sh | bash`
+
 
 ## Ubuntu
-curl -L https://get.oh-my.fish | bash
+
+`curl -L https://raw.githubusercontent.com/ArakiTakaki/ArakiTakaki/master/setup/ubuntu.sh | bash`
+
+## VIM
+
+```
+:PackerInstall
+:PackerCompile
+:TSInstall all
+```
